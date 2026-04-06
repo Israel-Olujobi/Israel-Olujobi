@@ -32,7 +32,7 @@ PyTorch · matplotlib · Bloomberg Terminal
 
 ### Featured Work
 
-**[Cross-Asset Volatility Convergence — A Regime-Conditional Macro Playbook](https://github.com/[your-handle]/cross-asset-vol-convergence)**
+**[Cross-Asset Volatility Convergence - A Regime-Conditional Macro Playbook](https://github.com/Israel-Olujobi/cross_asset_vol_convergence)**
 
 A live framework built around a question I spotted on Bloomberg during 
 the Iran war. When oil volatility and equity volatility converge above 
