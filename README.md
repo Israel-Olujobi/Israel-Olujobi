@@ -1,6 +1,6 @@
 
 ## Israel Olujobi
-**Emerging Markets FX Derivatives Trader | Bank of America Merrill Lynch**
+**Emerging Markets FX Derivatives Trader | Bank of America Merrill Lynch |**
 **Data Science & ML | University of Cambridge**
 
 London, UK · Open to relocate globally
