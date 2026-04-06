@@ -11,7 +11,7 @@ Two+ years on the EM FX trading desk at Bank of America, executing FX spot,
 forwards, NDFs and cross-currency swaps across 20+ markets 
 spanning CEEMEA, GCC, Africa, LATAM, G10 and APAC. Structured 
 derivatives solutions for institutional clients, ran macro-driven 
-trade ideas and produced. Now applying quantitative methods to 
+trade ideas and now applying applying data science and AI to systematise markets activity, 
 derivatives pricing and volatility.
 
 In July 2025 I stepped off the desk and enrolled in Cambridge's Data 
