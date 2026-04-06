@@ -7,7 +7,7 @@ London, UK · Open to relocate globally
 
 ---
 
-Two+ years on a trading desk at Bank of America, executing FX spot, 
+Two+ years on the EM FX trading desk at Bank of America, executing FX spot, 
 forwards, NDFs and cross-currency swaps across 20+ markets 
 spanning CEEMEA, GCC, Africa, LATAM, G10 and APAC. Structured 
 derivatives solutions for institutional clients, ran macro-driven 
