@@ -50,7 +50,6 @@ the subsequent cross-asset response?
 |---|---|
 | Bank of America | EM FX Trader · Jun 2023 – Jul 2025 |
 | University of Cambridge | Data Science & AI (PACE) · 2025–2026 |
-| Bank of America | Global Markets Summer Analyst · Jun 2021 - Aug 2021 |
 
 ---
 
